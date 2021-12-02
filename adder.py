@@ -19,9 +19,9 @@ print (re+"╔╦╗┌─┐┬  ┌─┐╔═╗  ╔═╗┌┬┐┌┬�
 print (gr+" ║ ├┤ │  ├┤ ║ ╦  ╠═╣ ││ ││├┤ ├┬┘")
 print (re+" ╩ └─┘┴─┘└─┘╚═╝  ╩ ╩─┴┘─┴┘└─┘┴└─")
 
-print (cy+"version : 1.01")
-print (cy+"Make sure you Subscribed Termux Professor On Youtube")
-print (cy+"www.youtube.com/c/TermuxProfessor")
+print (re+"version : 1.01")
+print (cy+"Usaha Tidak Pernah Menghianati Hasil ^^")
+print (gr+"By : Onyx Sitorus")
 
 print (re+"NOTE :")
 print ("1. Telegram only allow to add 200 members in group by one user.")
@@ -102,7 +102,7 @@ n = 0
 for user in users:
     n += 1
     if n % 80 == 0:
-        sleep(60)
+        sleep(900)
     try:
         print("Adding {}".format(user['id']))
         if mode == 1:
