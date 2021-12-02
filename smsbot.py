@@ -23,8 +23,9 @@ class main():
     {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
                 version : 3.1
-    youtube.com/channel/UCnknCgg_3pVXS27ThLpw3xQ
-            """)
+ {re}Usaha Tidak Pernah Menghianati Hasil ^^
+ {cy}By : Onyx Sitorus
+        """)
 
     def send_sms():
         try:
