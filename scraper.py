@@ -18,7 +18,7 @@ def banner():
 
               Version : 1.01
  {re}Usaha Tidak Pernah Menghianati Hasil ^^
-   {cy}By : Onyx Sitorus
+ {cy}By : Onyx Sitorus
         """)
 
 cpass = configparser.RawConfigParser()
